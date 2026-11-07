@@ -1,0 +1,7 @@
+pycryptodome
+sympy
+requests
+gmpy2
+pwntools
+beautifulsoup4
+Pillow
